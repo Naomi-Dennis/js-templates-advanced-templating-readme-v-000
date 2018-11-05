@@ -1,1 +1,2 @@
 
+let info = {aIssues : issues }

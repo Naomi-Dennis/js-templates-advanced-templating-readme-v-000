@@ -1,3 +1,3 @@
 
 let info = {aIssues : issues }
-let src = document.getElementById("")
+let src = document.getElementById("issue-log")
